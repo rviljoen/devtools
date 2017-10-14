@@ -1,1 +1,11 @@
-/Users/rviljoen/Library/Application Support/Code/User/settings.json
+// Place your settings in this file to overwrite the default settings
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "Fira Code",
+    "workbench.fontAliasing": "antialiased",
+    "editor.fontWeight": "100"
+}
