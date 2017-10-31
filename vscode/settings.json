@@ -7,5 +7,7 @@
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontFamily": "Fira Code",
     "workbench.fontAliasing": "antialiased",
-    "editor.fontWeight": "100"
+    "editor.fontWeight": "100",
+    "editor.minimap.enabled": false,
+    "window.title": "${dirty} ${activeEditorMedium}${separator}${rootName}"
 }
